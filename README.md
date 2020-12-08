@@ -13,7 +13,7 @@
 - HTML, CSS (+ Tailwind)
 - React, Vue ( + Nuxt)  
 - Redis  
-- PostgreSQL / MySQL / MongoDB
+- PostgreSQL, MySQL, MongoDB
 
 ---
 
