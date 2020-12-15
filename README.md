@@ -17,7 +17,7 @@
 
 ---
 
-### Contact Details
+### Contact
 
 ✉️ mail • [v@ven.earth](mailto:v@ven.earth)  
 
