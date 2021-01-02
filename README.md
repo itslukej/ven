@@ -25,4 +25,4 @@
 
 🐦 twitter • [@venolol](https://twitter.com/venolol)  
 
-💬 discord • [ven#9999](https://dsc.bio/v)
+💬 discord • [ven#9999](https://discord.bio/p/v)
