@@ -1,6 +1,6 @@
 👋 **Hi! I'm Ven.**  
 
-18-year-old software developer from 🇬🇧 **London, England**.
+18-year-old software developer and student from 🇬🇧 **London, England**.
 
 🌎 [ven.earth](https://ven.earth)
 
