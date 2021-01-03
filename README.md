@@ -8,10 +8,10 @@
 
 ### Experience
 
-- Python ( + d.py, Pillow, Matplotlib, Flask)  
-- JavaScript, TypeScript, Node (+ d.js, Express, Socket.IO)  
-- HTML, CSS (+ Tailwind)
-- React, Vue ( + Nuxt)  
+- Python (d.py, Pillow, Matplotlib, Flask)  
+- JavaScript, TypeScript, Node (d.js, Express, Socket.IO)  
+- HTML, CSS (Tailwind)
+- React, Vue (Next, Nuxt)  
 - Redis  
 - PostgreSQL, MySQL, MongoDB
 
