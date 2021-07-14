@@ -15,6 +15,10 @@
 - Redis  
 - PostgreSQL, MySQL, MongoDB
 
+### Currently Learning
+- Rust
+- Java
+
 ---
 
 ### Contact
