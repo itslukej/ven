@@ -12,7 +12,7 @@
 - JavaScript, TypeScript, Node.js (d.js, Express, Socket.IO)  
 - React (Redux, Next.js), Vue (VueX, Nuxt.js)
 - HTML, CSS (TailwindCSS, ChakraUI)
-- Postgres, MySQL, SQLite, MongoDB, Redis (Prisma/Mongoose)
+- PostgreSQL, MySQL, SQLite, MongoDB, Redis (Prisma/Mongoose)
 - Jest
 
 ### Currently Learning
