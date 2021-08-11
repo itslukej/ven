@@ -1,6 +1,6 @@
 ## 👋 **Hi! I'm Ven.**  
 
-18-year-old software developer and student from **London, England**.
+18-year-old software developer and CS student from **London, England**.
 
 🌎 [ven.earth](https://ven.earth)
 
@@ -8,12 +8,12 @@
 
 ### Experience
 
-- Python (d.py, Pillow, Matplotlib, Flask)  
-- JavaScript, TypeScript, Node (d.js, Express, Socket.IO)  
-- HTML, CSS (Tailwind)
-- React, Vue (Next, Nuxt)  
-- Redis  
-- PostgreSQL, MySQL, MongoDB
+- Python (d.py, Matplotlib, Flask) 
+- JavaScript, TypeScript, Node.js (d.js, Express, Socket.IO)  
+- React (Redux, Next.js), Vue (VueX, Nuxt.js)
+- HTML, CSS, TailwindCSS
+- Postgres, MySQL, SQLite, MongoDB, Redis (Prisma/Mongoose)
+- Jest
 
 ### Currently Learning
 - Rust
@@ -27,6 +27,6 @@
 
 🔑 keybase • [venoras](https://keybase.io/venoras)  
 
-🐦 twitter • [@venolol](https://twitter.com/venolol)  
+🐦 twitter • [@venolol](https://ven.earth/twitter)  
 
-💬 discord • [ven#9999](https://discord.bio/p/v)
+💬 discord • [ven#9999](https://ven.earth/discord)
